@@ -35,7 +35,7 @@
     "brolog": "^1.2.6",
     "encoding-down": "^2.3.1",
     "leveldown": "^2.0.0",
-    "levelup": "MeirionHughes/levelup",
+    "levelup": "2.0.0-rc3",
     "rimraf": "^2.6.2"
   },
   "devDependencies": {
